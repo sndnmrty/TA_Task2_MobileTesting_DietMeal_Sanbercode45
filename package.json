@@ -1,0 +1,18 @@
+{
+  "name": "dietmealapk",
+  "version": "1.0.0",
+  "description": "mobile application apk Diet Meal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "wdio": "wdio run ./wdio.conf.js"
+  },
+  "keywords": [
+    "mobile"
+  ],
+  "author": "Sonia Dian Amartya Harsono Putri",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^8.12.3"
+  }
+}
